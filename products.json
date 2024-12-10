@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name":"Apple",
+        "price": 200,
+        "image": "apple.img"
+    },
+    {
+        "id": 2,
+        "name":"Banana",
+        "price": 250,
+        "image": "banana.jfif"
+    },
+    {
+        "id": 3,
+        "name":"Pear",
+        "price": 290,
+        "image": "pear.jfif"
+    }
+]
